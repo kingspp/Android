@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wakey</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_display">Display</string>
+    <string name="menu_notification">Show Notification</string>
+    <string name="service_started">Readings x:%1$s y:%2$s z:%3$s</string>
+    <string name="service_label">Wakey</string>
+    <string name="title_activity_inv">InvActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_display">Display</string>
+    <string name="title_activity_disp">Sensor Display</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+     <string name="drawer_open">Open navigation drawer</string>
+      <string name="drawer_close">Close navigation drawer</string>
+    
+     <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>

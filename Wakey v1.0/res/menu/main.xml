@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.wakey.MainActivity" >
+
+      <item
+        android:id="@+id/action_notification"
+        android:orderInCategory="100"
+        android:title="@string/menu_notification"
+        app:showAsAction="never" android:checked="false" android:checkable="true"/>
+       
+         <item
+        android:id="@+id/action_display"
+        android:orderInCategory="100"
+        android:title="@string/menu_display"
+        app:showAsAction="never"/>
+      
+      <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/menu_settings"
+        app:showAsAction="never"/>
+      
+      
+    
+    </menu>
